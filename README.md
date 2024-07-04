@@ -241,6 +241,7 @@
 - [Sparrow He](https://github.com/sparrowhe)
 - [yang233](https://github.com/hkyang233)
 - [MoYuanCN](https://moyuancn.vip)
+- [danzongd](https://github.com/danzongd)
 <!-- END LGBT-CN SIGNATURE -->
 <!-- 请不要更改上方的标签 -->
 
